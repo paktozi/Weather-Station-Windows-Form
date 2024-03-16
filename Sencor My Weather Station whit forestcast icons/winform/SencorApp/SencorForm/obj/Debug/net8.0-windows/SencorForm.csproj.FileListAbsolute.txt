@@ -1,0 +1,62 @@
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.exe
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.deps.json
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.runtimeconfig.json
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.dll
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.pdb
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.Form1.resources
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.GenerateResource.cache
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.AssemblyInfoInputs.cache
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.AssemblyInfo.cs
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.CoreCompileInputs.cache
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.dll
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\refint\SencorForm.dll
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.pdb
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.genruntimeconfig.cache
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\ref\SencorForm.dll
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.AssemblyReference.cache
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.CopyComplete
+E:\Programs\C#\Exersise\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.Properties.Resources.resources
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.exe
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.deps.json
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.runtimeconfig.json
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.pdb
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.AssemblyReference.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.Form1.resources
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.Properties.Resources.resources
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.GenerateResource.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.AssemblyInfoInputs.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.AssemblyInfo.cs
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.CoreCompileInputs.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.sourcelink.json
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\refint\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.pdb
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.genruntimeconfig.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\ref\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.Up2Date
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.exe
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.deps.json
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.runtimeconfig.json
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\SencorForm.pdb
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.AssemblyReference.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.Form1.resources
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.Properties.Resources.resources
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.GenerateResource.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.AssemblyInfoInputs.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.AssemblyInfo.cs
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.CoreCompileInputs.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.sourcelink.json
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.csproj.Up2Date
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\refint\SencorForm.dll
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.pdb
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\SencorForm.genruntimeconfig.cache
+C:\Users\mirizlivka\Documents\GitHub\Weather-App-Windows-Form\Sencor My Weather Station whit forestcast icons\winform\SencorApp\SencorForm\obj\Debug\net8.0-windows\ref\SencorForm.dll
