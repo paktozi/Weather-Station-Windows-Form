@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SencorForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe9bb20cd3987da4200752a0a33aa8dfd456e48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2836577d6e848b44e740720a22577c2950aa09a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SencorForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SencorForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

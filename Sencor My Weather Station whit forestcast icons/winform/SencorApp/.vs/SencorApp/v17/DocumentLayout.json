@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\",
+  "WorkspaceRootPath": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|c:\\users\\mirizlivka\\documents\\github\\weather-station-windows-form\\sencor my weather station whit forestcast icons\\winform\\sencorapp\\sencorform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|c:\\users\\mirizlivka\\documents\\github\\weather-app-windows-form\\sencor my weather station whit forestcast icons\\winform\\sencorapp\\sencorform\\addons\\iconchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\iconchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\addons\\iconchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\rawweatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\rawweatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\addons\\rawweatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\colors\\colorisevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\colors\\colorisevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\colors\\colorisevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\dayforestcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\dayforestcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\addons\\dayforestcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\maxminperday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\maxminperday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\addons\\maxminperday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\pressuretendency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\sencorform\\addons\\pressuretendency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37B17677-731A-4FAF-9C3E-AE806AD9ADF5}|SencorForm\\SencorForm.csproj|solutionrelative:sencorform\\addons\\pressuretendency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,11 +56,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs",
               "RelativeDocumentMoniker": "SencorForm\\Form1.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs",
               "RelativeToolTip": "SencorForm\\Form1.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBwAAAA2AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwB8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-12T22:00:55.939Z",
               "EditorCaption": ""
@@ -69,21 +69,20 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs",
               "RelativeDocumentMoniker": "SencorForm\\Form1.cs",
               "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs [Design]",
-              "RelativeToolTip": "SencorForm\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T22:00:55.957Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-12T22:00:55.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MaxMinPerDay.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\MaxMinPerDay.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\MaxMinPerDay.cs",
               "RelativeDocumentMoniker": "SencorForm\\Addons\\MaxMinPerDay.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\MaxMinPerDay.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\MaxMinPerDay.cs",
               "RelativeToolTip": "SencorForm\\Addons\\MaxMinPerDay.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwDAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,9 +92,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DayForestcast.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\DayForestcast.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\DayForestcast.cs",
               "RelativeDocumentMoniker": "SencorForm\\Addons\\DayForestcast.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\DayForestcast.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\DayForestcast.cs",
               "RelativeToolTip": "SencorForm\\Addons\\DayForestcast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PressureTendency.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\PressureTendency.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\PressureTendency.cs",
               "RelativeDocumentMoniker": "SencorForm\\Addons\\PressureTendency.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\PressureTendency.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\PressureTendency.cs",
               "RelativeToolTip": "SencorForm\\Addons\\PressureTendency.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ColoriseValue.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Colors\\ColoriseValue.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Colors\\ColoriseValue.cs",
               "RelativeDocumentMoniker": "SencorForm\\Colors\\ColoriseValue.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Colors\\ColoriseValue.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Colors\\ColoriseValue.cs",
               "RelativeToolTip": "SencorForm\\Colors\\ColoriseValue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RawWeatherData.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\RawWeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\RawWeatherData.cs",
               "RelativeDocumentMoniker": "SencorForm\\Addons\\RawWeatherData.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\RawWeatherData.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\RawWeatherData.cs",
               "RelativeToolTip": "SencorForm\\Addons\\RawWeatherData.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,14 +140,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IconChanger.cs",
-              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\IconChanger.cs",
+              "DocumentMoniker": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\IconChanger.cs",
               "RelativeDocumentMoniker": "SencorForm\\Addons\\IconChanger.cs",
-              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-App-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\IconChanger.cs",
+              "ToolTip": "C:\\Users\\mirizlivka\\Documents\\GitHub\\Weather-Station-Windows-Form\\Sencor My Weather Station whit forestcast icons\\winform\\SencorApp\\SencorForm\\Addons\\IconChanger.cs",
               "RelativeToolTip": "SencorForm\\Addons\\IconChanger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T22:00:55.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T22:00:55.943Z"
             }
           ]
         }
